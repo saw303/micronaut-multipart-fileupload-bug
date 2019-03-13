@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.fileupload.bug
+---
+testFramework: spock
+sourceLanguage: java
